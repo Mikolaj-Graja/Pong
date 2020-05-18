@@ -1,2 +1,1 @@
-# Pong animation 
-## Pure CSS & HTML
+# Pong animation Pure CSS & HTML
